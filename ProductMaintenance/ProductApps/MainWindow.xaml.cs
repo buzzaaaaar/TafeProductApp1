@@ -18,6 +18,8 @@ namespace ProductApps
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
+
+    //whatsup
     public partial class MainWindow : Window
     {
         Product cProduct;
